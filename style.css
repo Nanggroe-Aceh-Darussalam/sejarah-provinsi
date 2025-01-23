@@ -1,0 +1,38 @@
+body {
+	background-image: url('bg.jpeg'); /* background website */
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: no-fixed;
+}
+
+.atas {
+	background-image: url('bg2.jpeg');
+	-webkit-text-stroke: 1px white;
+	color: #CE11DA;
+	border-radius: 16px;
+	border: 5px solid #CE11DA;
+}
+
+.container {
+	background-color: #B84AF1;
+	border-radius: 5px;
+	border: 5px solid white;
+	margin: 10px;
+	color: white;
+}
+
+.container2 {
+	background-color: white;
+	border-radius: 5px;
+	border: 5px solid #CE11DA;
+	transition: all 2s ease-in-out;
+}
+
+.link {
+    background-color: white;
+    color: black;
+    width: 350px;
+    height: auto;
+    border: 5px solid #CE11DA;
+    border-radius: 16px;
+    font-size: 200%;
